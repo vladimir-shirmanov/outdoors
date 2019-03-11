@@ -1,0 +1,9 @@
+{
+  "name": "my-css-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
